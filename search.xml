@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Test</title>
+    <url>/2023/10/05/hello-world/</url>
+    <content><![CDATA[<p>臣亮言：<mark class="hl-label default">先帝</mark> 創業未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此誠<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈於內；<mark class="hl-label purple">忠志之士</mark> ，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。<br>宮中、府中，俱為一體；陟罰臧否，不宜異同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。</p>
+]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>单调栈</title>
     <url>/2023/10/08/another/</url>
     <content><![CDATA[<p>在全局变量和局部变量都声明的情况下，之会改变局部变量</p>
@@ -23,15 +32,6 @@
     <title>Test</title>
     <url>/2023/10/07/data/</url>
     <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title	【必需】頁面標題</span><br><span class="line">date	【必需】頁面創建日期</span><br><span class="line">type	【必需】標籤、分類和友情鏈接三個頁面需要配置</span><br><span class="line">updated	【可選】頁面更新日期</span><br><span class="line">description	【可選】頁面描述</span><br><span class="line">keywords	【可選】頁面關鍵字</span><br><span class="line">comments	【可選】顯示頁面評論模塊 (默認 true)</span><br><span class="line">top_img	【可選】頁面頂部圖片</span><br><span class="line">mathjax	【可選】顯示mathjax (當設置mathjax的per_page: false時，才需要配置，默認 false)</span><br><span class="line">katex	【可選】顯示katex (當設置katex的per_page: false時，才需要配置，默認 false)</span><br><span class="line">aside	【可選】顯示側邊欄 (默認 true)</span><br><span class="line">aplayer	【可選】在需要的頁面加載aplayer的js和css,請參考文章下面的音樂 配置</span><br><span class="line">highlight_shrink	【可選】配置代碼框是否展開 (true/false) (默認為設置中highlight_shrink的配置)</span><br><span class="line">random	【可選】配置友情鏈接是否隨機排序（默認為 false)</span><br></pre></td></tr></table></figure>]]></content>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Test</title>
-    <url>/2023/10/05/hello-world/</url>
-    <content><![CDATA[<p>臣亮言：<mark class="hl-label default">先帝</mark> 創業未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此誠<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈於內；<mark class="hl-label purple">忠志之士</mark> ，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。<br>宮中、府中，俱為一體；陟罰臧否，不宜異同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。</p>
-]]></content>
       <tags>
         <tag>test</tag>
       </tags>
