@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>国际经济学奥林匹克IEO</title>
-    <url>/2023/10/11/IEO/</url>
+    <url>/2023/10/13/IEO/</url>
     <content><![CDATA[<p>International Economics Olympiad（IEO）国际经济学奥林匹克由多所大学组成的联合委员会主办，其中包括经济学和计量经济学专业在俄罗斯排名第一的俄罗斯国立高等经济学院，IEO竞赛由哈佛大学和亚当斯大学的讲席教授、2007年诺贝尔经济学奖获得者埃里克·马斯金全程参与活动，担任理事会主席。2019年，青少年国际竞赛与交流中心（ITCCC）将这项高水平的中学生学术活动引入了中国。</p>
 <p>IEO是十三项科学类奥林匹克竞赛中首项经济学领域的比赛。作为国际级奥林匹克活动，IEO获得了世界各国的高度认可和关注，IEO是为高中生（竞赛当年没有超过20周岁）举办的一年一度的经济学盛会，旨在鼓励对经济学、财务和商业感兴趣的学生并激发他们用创造性方式解决问题。</p>
 <p>IEO 目前在中国地区由ITCCC 与 SKT 两个机构承办，分别以四人一组（ITCCC）与个人参赛的形式对同学们进行考核（SKT）。</p>
@@ -73,7 +73,7 @@
   </entry>
   <entry>
     <title>单调栈</title>
-    <url>/2023/10/08/another/</url>
+    <url>/2023/10/13/another/</url>
     <content><![CDATA[<p>在全局变量和局部变量都声明的情况下，之会改变局部变量</p>
 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="type">int</span> b;</span><br><span class="line"><span class="function"><span class="type">void</span> <span class="title">help</span><span class="params">()</span></span>&#123;</span><br><span class="line">	cout&lt;&lt;b;</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">	 <span class="type">int</span> b;</span><br><span class="line">	 cout&lt;&lt;b;<span class="comment">//9</span></span><br><span class="line">	 <span class="built_in">help</span>();<span class="comment">//0</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
@@ -92,7 +92,7 @@
   </entry>
   <entry>
     <title>Test</title>
-    <url>/2023/10/07/data/</url>
+    <url>/2023/10/13/data/</url>
     <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title	【必需】頁面標題</span><br><span class="line">date	【必需】頁面創建日期</span><br><span class="line">type	【必需】標籤、分類和友情鏈接三個頁面需要配置</span><br><span class="line">updated	【可選】頁面更新日期</span><br><span class="line">description	【可選】頁面描述</span><br><span class="line">keywords	【可選】頁面關鍵字</span><br><span class="line">comments	【可選】顯示頁面評論模塊 (默認 true)</span><br><span class="line">top_img	【可選】頁面頂部圖片</span><br><span class="line">mathjax	【可選】顯示mathjax (當設置mathjax的per_page: false時，才需要配置，默認 false)</span><br><span class="line">katex	【可選】顯示katex (當設置katex的per_page: false時，才需要配置，默認 false)</span><br><span class="line">aside	【可選】顯示側邊欄 (默認 true)</span><br><span class="line">aplayer	【可選】在需要的頁面加載aplayer的js和css,請參考文章下面的音樂 配置</span><br><span class="line">highlight_shrink	【可選】配置代碼框是否展開 (true/false) (默認為設置中highlight_shrink的配置)</span><br><span class="line">random	【可選】配置友情鏈接是否隨機排序（默認為 false)</span><br></pre></td></tr></table></figure>]]></content>
       <tags>
         <tag>test</tag>
@@ -100,7 +100,7 @@
   </entry>
   <entry>
     <title>Test</title>
-    <url>/2023/10/05/hello-world/</url>
+    <url>/2023/10/13/hello-world/</url>
     <content><![CDATA[<p>臣亮言：<mark class="hl-label default">先帝</mark> 創業未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此誠<mark class="hl-label red">危急存亡之秋</mark> 也！然侍衞之臣，不懈於內；<mark class="hl-label purple">忠志之士</mark> ，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。誠宜開張聖聽，以光先帝遺德，恢弘志士之氣；不宜妄自菲薄，引喻失義，以塞忠諫之路也。<br>宮中、府中，俱為一體；陟罰臧否，不宜異同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。</p>
 ]]></content>
       <tags>
